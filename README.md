@@ -3,7 +3,7 @@
 
 - 🔭 I'm currently working on **US Banking Retail Project at Mphasis**
 
-- 🌱 I'm currently learning **Block-chain and Automation Testing Frameworks**
+- 🌱 I'm currently learning **React Native and Automation Testing Frameworks**
 
 - 👨‍💻 All of my projects are available at [http://munishgoel.netlify.app/](http://munishgoel.netlify.app/)
 
